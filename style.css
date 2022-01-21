@@ -2796,6 +2796,12 @@ a.state-active--exact.state-active {
     -ms-transition: all 2s ease;
     -o-transition: all 2s ease;
 }
+.and-more{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 14px;
+}
+
 
 @keyframes fadein {
     from {
